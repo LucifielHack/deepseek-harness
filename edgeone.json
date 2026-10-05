@@ -44,5 +44,8 @@
     "sandbox": {
       "timeout": 300
     }
+  },
+  "functions": {
+    "outputDirectory": "functions-dist"
   }
 }
